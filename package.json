@@ -1,0 +1,14 @@
+{
+  "name": "@asimov-federation/epistemic-score",
+  "version": "1.0.0",
+  "description": "Measure whether AI makes users smarter or more dependent. The Epistemic Independence Score tracks verification, complexity, and correction patterns.",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" },
+  "scripts": { "test": "node --test test.js" },
+  "keywords": ["ai-safety", "sycophancy", "epistemic-independence", "llm", "asimov", "claw"],
+  "author": "FutureSpeak.AI <https://futurespeak.ai>",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/FutureSpeakAI/epistemic-score.git" },
+  "homepage": "https://github.com/FutureSpeakAI/epistemic-score"
+}
