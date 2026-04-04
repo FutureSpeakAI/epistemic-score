@@ -1,5 +1,5 @@
 {
-  "name": "@asimov-federation/epistemic-score",
+  "name": "@futurespeak-ai/epistemic-score",
   "version": "1.0.0",
   "description": "Measure whether AI makes users smarter or more dependent. The Epistemic Independence Score tracks verification, complexity, and correction patterns.",
   "type": "module",
