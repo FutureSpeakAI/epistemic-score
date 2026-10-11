@@ -1,3 +1,5 @@
+> **The maintained Epistemic Independence work now lives in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday). This package is the April 2026 JavaScript version.**
+
 # Epistemic Independence Score
 
 **Measure whether your AI is making users smarter -- or more dependent.**
